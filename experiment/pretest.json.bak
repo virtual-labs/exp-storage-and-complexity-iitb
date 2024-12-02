@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The order of space complexity in band matrix is",
+        "qid": 1,
+        "option_a": "O(n)",
+        "option_b": "O(n<sup>2</sup>)",
+        "option_c": "O(n/2)",
+        "option_d": "O(n-1)",
+        "correct_option": "c"
+    },
+    {
+        "question": "The important parameters for analysing the efficiency of algorithms are",
+        "qid": 2,
+        "option_a": "Equation and Space complexity",
+        "option_b": "Equation and Time complexity",
+        "option_c": "Iteration and Space complexity",
+        "option_d": "Time and Space complexity",
+        "correct_option": "d"
+    }
+]
